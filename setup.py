@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="binarypipe",
-    version="0.0.1",
+    version="0.1.0",
     author="Shivam Agrawal",
     author_email="shivam301296@gmail.com",
     description="Import binary data such as images, audio in ready to feed format for ML models with just one line of code",
